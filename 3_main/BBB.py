@@ -1,0 +1,2 @@
+import AAA
+AAA.functionA()
